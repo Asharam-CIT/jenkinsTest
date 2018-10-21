@@ -15,6 +15,7 @@ public class StringTest {
 		 */
 		System.out.println(" duke".trim() == "duke".trim());
 		System.out.println("Hello");
+		System.out.println("Hello World");
 		
 	}
 }
